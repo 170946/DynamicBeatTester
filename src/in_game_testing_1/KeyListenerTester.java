@@ -16,7 +16,7 @@ public class KeyListenerTester extends JFrame implements KeyListener{
 	@Override
 	public void keyTyped(KeyEvent e) {
 		// TODO Auto-generated method stub
-		System.out.println(e.getKeyCode());
+		//System.out.println(e.getKeyCode());
 	}
 
 	@Override

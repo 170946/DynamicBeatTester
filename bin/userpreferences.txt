@@ -1,0 +1,15 @@
+USER PREFERENCES
+
+This document contains all user customization info
+
+Format:
+	Commas are the general delimeter
+	Data must come directly after something like this: 
+		ALLCAPS: data
+
+(stored as keycodes) //wait holy shit these spaces between commas actually matter...
+KEY CONFIGURATION: 
+68, 70, 74, 75,
+
+SKIN:
+default

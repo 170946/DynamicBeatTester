@@ -68,4 +68,8 @@ public class Note{
 	public void render(Graphics g){
 		g.fillRect(this.x, this.y, 50, 50);
 	}
+
+	public long getDesiredTime() {
+		return this.desiredTime;
+	}
 }
